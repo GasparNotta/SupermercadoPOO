@@ -1,0 +1,10 @@
+arroz 3
+leche 2 
+queso 1
+uvas 3
+jamon 2
+ciruela 8
+manteca 3
+zanahorias 10
+pizza 5
+mermelada 9
